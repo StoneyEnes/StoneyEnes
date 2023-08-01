@@ -10,7 +10,7 @@
 <a href="https://codesandbox.com/enespoyraz0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="enespoyraz0" height="30" width="40" /></a>
 <a href="https://fb.com/100089862346303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100089862346303" height="30" width="40" /></a>
 <a href="https://instagram.com/enes.poy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="enes.poy" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/UCBeK_UQBgEJxj6hPCnOP9_w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="enespoyraz6112" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCBeK_UQBgEJxj6hPCnOP9_w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="enespoyraz6112" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
