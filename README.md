@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enes</h1>
-<h3 align="center">A new web developer who started the software 6 months ago.</h3>
+<h3 align="center">A new web developer who started the software 1 year ago.</h3>
 
 - 🔭 I’m currently working on **React** and **React Native**
 
